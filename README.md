@@ -1,5 +1,5 @@
 # Arduino-Cat-Feeder
-An automatic cat-feeder that uses Arduino to automate its functionality. The system utilizes an HC-SR04 ultrasonic sensor as an input to detect the proximity of the cat to the device, one it gets close enough, a servo attached to the bottom of a loose lid, whose some part is cut out, will rotate 180 degrees which causes the catfood to fall. 
+An automatic cat-feeder that uses Arduino to automate its functionality. The system utilizes an HC-SR04 ultrasonic sensor as an input to detect the proximity of the cat to the device, once it gets close enough, a servo attached to the bottom of a loose lid, whose some part is cut out, will rotate 180 degrees which causes the catfood to fall. 
 
 ## Components Used
 * Arduino UNO
